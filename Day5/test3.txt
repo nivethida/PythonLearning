@@ -1,0 +1,7 @@
+file
+edit
+search
+view
+encoding
+language
+settings
